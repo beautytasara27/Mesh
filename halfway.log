@@ -33,4 +33,4 @@ Exporter version: 6.4.6, Blender version: 2.90.1
     self.alpha = bpyNode.image.file_format not in NON_ALPHA_FORMATS
 ERROR:  'NoneType' object has no attribute 'file_format'
 ========= end of processing =========
-elapsed time:  0 min, 0.008 secs
+elapsed time:  0 min, 0.009 secs

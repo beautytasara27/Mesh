@@ -1,0 +1,113 @@
+Exporter version: 6.4.6, Blender version: 2.90.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Mesh\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  Bone001, index:  0
+		processing begun of bone:  Circle002, index:  1
+		processing begun of bone:  Bone002, index:  2
+		processing begun of bone:  Circle003, index:  3
+		processing begun of bone:  Bone003, index:  4
+		processing begun of bone:  Circle004, index:  5
+		processing begun of bone:  Bone004, index:  6
+		processing begun of bone:  Circle005, index:  7
+		processing begun of bone:  Bone005, index:  8
+		processing begun of bone:  Circle006, index:  9
+		processing begun of bone:  Bone006, index:  10
+		processing begun of bone:  Circle007, index:  11
+		processing begun of bone:  Bone007, index:  12
+		processing begun of bone:  Circle008, index:  13
+		processing begun of bone:  Bone008, index:  14
+		processing begun of bone:  Circle009, index:  15
+		processing begun of bone:  Bone009, index:  16
+		processing begun of bone:  Circle010, index:  17
+		processing begun of bone:  Bone010, index:  18
+		processing begun of bone:  Circle011, index:  19
+		processing begun of bone:  Bone011, index:  20
+		processing begun of bone:  Circle012, index:  21
+		processing begun of bone:  Bone012, index:  22
+		processing begun of bone:  Circle013, index:  23
+		processing begun of bone:  Bone013, index:  24
+		processing begun of bone:  Circle014, index:  25
+		processing begun of bone:  Bone014, index:  26
+		processing begun of bone:  Circle015, index:  27
+		processing begun of bone:  Bone015, index:  28
+		processing begun of bone:  Circle016, index:  29
+		processing begun of bone:  Bone016, index:  30
+		processing begun of bone:  Circle017, index:  31
+		processing begun of bone:  Bone017, index:  32
+		processing begun of bone:  Circle018, index:  33
+		processing begun of bone:  Bone018, index:  34
+		processing begun of bone:  Circle019, index:  35
+		processing begun of bone:  Bone019, index:  36
+		processing begun of bone:  Circle021, index:  37
+		processing begun of bone:  Bone022, index:  38
+		processing begun of bone:  Circle022, index:  39
+		processing begun of bone:  Bone023, index:  40
+		processing begun of bone:  Circle023, index:  41
+		processing begun of bone:  Bone024, index:  42
+		processing begun of bone:  Bone020, index:  43
+		processing begun of bone:  Circle020, index:  44
+		processing begun of bone:  Bone021, index:  45
+	processing begun of node:  Circle022
+	processing begun of node:  Circle021
+	processing begun of node:  Circle023
+	processing begun of node:  Circle020
+	processing begun of node:  Circle019
+	processing begun of node:  Circle018
+	processing begun of node:  Circle017
+	processing begun of node:  Circle016
+	processing begun of node:  Circle015
+	processing begun of node:  Circle014
+	processing begun of node:  Circle013
+	processing begun of node:  Circle012
+	processing begun of node:  Circle011
+	processing begun of node:  Circle010
+	processing begun of node:  Circle009
+	processing begun of node:  Circle008
+	processing begun of node:  Circle007
+	processing begun of node:  Circle006
+	processing begun of node:  Circle005
+	processing begun of node:  Circle004
+	processing begun of node:  Circle003
+	processing begun of node:  Circle002
+	processing begun of mesh:  lengua
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  1856
+		num normals        :  1856
+		num tangents       :  7424
+		num uvs            :  3712
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2844
+	processing begun of mesh:  cuerpo
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  11012
+		num normals        :  11012
+		num tangents       :  44048
+		num uvs            :  22024
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  18288
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 6 vertices, extras ignored
+			Total Influencers:  43504
+			Avg # of influencers per vertex:  3.9506
+			Highest # of influencers observed:  9, num vertices with this:  6
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  88096
+	Mesh: cuerpo has un-applied transformations.  This will never work for a mesh with an armature.  Export cancelled
+========= end of processing =========
+elapsed time:  0 min, 10.3928 secs
