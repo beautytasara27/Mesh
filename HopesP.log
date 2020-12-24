@@ -1,0 +1,31 @@
+Exporter version: 6.4.6, Blender version: 2.90.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Mesh\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  Head, index:  0
+		processing begun of bone:  Bone.001, index:  1
+		processing begun of bone:  Middle, index:  2
+		processing begun of bone:  Bone.003, index:  3
+		processing begun of bone:  Tail, index:  4
+		processing begun of bone:  controller, index:  5
+========= An error was encountered =========
+  File "C:\Users\Beauty\AppData\Roaming\Blender Foundation\Blender\2.90\scripts\addons\babylon_js\json_exporter.py", line 98, in execute
+    self.skeletons.append(Skeleton(object, context, skeletonId, self.settings.ignoreIKBones))
+  File "C:\Users\Beauty\AppData\Roaming\Blender Foundation\Blender\2.90\scripts\addons\babylon_js\armature.py", line 102, in __init__
+    animationRange = AnimationRange.actionPrep(bpySkeleton, action, FRAME_BASED_ANIMATION, frameOffset)
+  File "C:\Users\Beauty\AppData\Roaming\Blender Foundation\Blender\2.90\scripts\addons\babylon_js\animation.py", line 57, in actionPrep
+    object.animation_data.action = action
+ERROR:  bpy_struct: attribute "action" from "AnimData" is read-only
+========= end of processing =========
+elapsed time:  0 min, 0.0369 secs
